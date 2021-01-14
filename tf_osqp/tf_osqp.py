@@ -1,7 +1,7 @@
 """
 Engine for OSQP solution through tensorflow.
 
-Created by @pachees
+Created by @rishabhjha33
 
 """
 
