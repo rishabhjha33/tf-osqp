@@ -102,5 +102,7 @@ The original pure python source code for OSQP can be found on their repo [here](
 
 Current implementation in this repo can execute on GPUs but the code hasn't been optimized to offer large speed ups yet. To see better performance on GPUs, the recommendation is to OSQP's official CUDA implementation: [cuosqp](https://github.com/oxfordcontrol/cuosqp) 
 
+TensorFlow, the TensorFlow logo and any related marks are trademarks of Google Inc.
+
 ## License
 Apache 2.0 
